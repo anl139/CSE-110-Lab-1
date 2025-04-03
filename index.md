@@ -47,7 +47,7 @@ I have some projects that were within and outside the school environment such as
 
 ## Contact
 
-Feel free to reach out to me via [email](anl139@ucsd.edu) or follow me on [GitHub](https://github.com/anl139).
+Feel free to follow me on [GitHub](https://github.com/anl139).
 
 
 ---
