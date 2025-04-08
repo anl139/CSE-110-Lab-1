@@ -30,6 +30,8 @@ I have some projects that were within and outside the school environment such as
 
 - **Solar Tracker:** A device that moves toward the direction of the sun
 - **Happiness Tracker:** A linear regression model that detected factors of happiness within a large dataset
+- ![image](https://github.com/user-attachments/assets/9f2d7ec9-b257-4b08-a9b4-a8e4a1ee6209)
+
 
 
 #### CheckList
