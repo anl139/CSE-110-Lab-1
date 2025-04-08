@@ -52,4 +52,3 @@ I have some projects that were within and outside the school environment such as
 Feel free to follow me on [GitHub](https://github.com/anl139).
 
 
----
